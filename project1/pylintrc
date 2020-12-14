@@ -1,2 +1,2 @@
 [MASTER]
-ignore=tests/basic_test.py
+ignore=tests
