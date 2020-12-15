@@ -1,4 +1,4 @@
 [flake8]
 ignore = sdks
-exclude = project1
+exclude = .venv
 max-complexity = 10
