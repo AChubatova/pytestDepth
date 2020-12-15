@@ -1,4 +1,0 @@
-[flake8]
-ignore = sdks
-exclude = .venv
-max-complexity = 10
